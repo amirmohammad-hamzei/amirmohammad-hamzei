@@ -43,14 +43,13 @@
 - 🚧 Building small projects to practice **WebSockets** and **real-time communication**
 
 ---
+<!-- 
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amirmohammad-hamzei&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
--->
 
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammad-hamzei&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
@@ -60,6 +59,7 @@
 </div>
 
 ---
+-->
 
 ### 🌐 Contact Me
 
