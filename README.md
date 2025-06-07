@@ -1,6 +1,8 @@
 <h1 align="center">✨ Hi there! I'm a Python Developer with Passion ✨</h1>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400" />
+</div>
 
 ---
 
@@ -19,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,docker,postman,git,linux,vscode,sqlite,postgresql&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,django,rest_framework,docker,postman,git,linux,vscode,sqlite,postgresql&perline=7" />
 
 <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
