@@ -2,16 +2,6 @@
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRocG04bDVxaW9qY2Z5cTZjbTJubzM5cDJxaHZmc2V2aXh6eDZ1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" />
-</div>
-
 ---
 
 ### 🧠 About Me
