@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,docker,postman,git,linux,vscode,html,css,sqlite,postgresql&perline=7" alt="Tech Icons" />
+<img src="https://skillicons.dev/icons?i=python,django,docker,postman,git,linux,redis,rabbitmq,vscode,html,css,sqlite,postgresql&perline=7" alt="Tech Icons" />
 
 <br />
 
